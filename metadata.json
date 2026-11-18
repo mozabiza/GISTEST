@@ -1,0 +1,6 @@
+{
+  "name": "Global Institute of Studies — Pengambilan SKM",
+  "description": "Laman rasmi pertanyaan pengambilan Sijil Kemahiran Malaysia (SKM) Global Institute of Studies dengan maklumat Pinjaman PTPK, Elaun Sara Hidup dan pendaftaran WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
